@@ -1,0 +1,11 @@
+body {
+    background-color: slategrey;
+}
+
+.like-button {
+    cursor: pointer;
+}
+
+.clickable {
+    cursor: pointer;
+}
